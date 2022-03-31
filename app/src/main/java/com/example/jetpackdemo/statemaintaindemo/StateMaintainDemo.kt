@@ -1,4 +1,4 @@
-package com.example.jetpackdemo
+package com.example.jetpackdemo.statemaintaindemo
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.Button

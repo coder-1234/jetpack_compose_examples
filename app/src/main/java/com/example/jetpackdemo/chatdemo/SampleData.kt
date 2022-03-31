@@ -1,4 +1,4 @@
-package com.example.jetpackdemo
+package com.example.jetpackdemo.chatdemo
 
 data class Message(val author: String,val body: String)
 

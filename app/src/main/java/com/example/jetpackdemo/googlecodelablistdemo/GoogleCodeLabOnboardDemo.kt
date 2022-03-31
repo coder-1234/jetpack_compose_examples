@@ -1,4 +1,4 @@
-package com.example.jetpackdemo
+package com.example.jetpackdemo.googlecodelablistdemo
 
 import androidx.compose.animation.animateContentSize
 import androidx.compose.animation.core.Spring

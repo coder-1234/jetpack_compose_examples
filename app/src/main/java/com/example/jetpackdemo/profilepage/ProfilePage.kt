@@ -1,4 +1,4 @@
-package com.example.jetpackdemo
+package com.example.jetpackdemo.profilepage
 
 import android.content.res.Configuration
 import androidx.compose.foundation.Image
@@ -26,6 +26,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.ConstraintSet
+import com.example.jetpackdemo.R
 
 @Composable
 fun SimpleProfilePage(){
@@ -325,7 +326,5 @@ fun ProfilePage(){
 @Preview(showBackground = true)
 @Composable
 fun ProfilePagePreview(){
-//    SimpleProfilePage()
-//    ConstraintProfilePage()
     ProfilePage()
 }
